@@ -1,0 +1,108 @@
+{
+  "new_nodes": [
+    {
+      "id": "friend_node_0",
+      "features": {
+        "post_rate_norm": 0.1,
+        "profile_age_norm": 0.1,
+        "report_rate": 0.0468,
+        "external_link_rate": 0.0468,
+        "profile_realness": 1.0,
+        "shared_audience_overlap": 0.825,
+        "interaction_strength": 0.825,
+        "trust_score": 0.97
+      }
+    },
+    {
+      "id": "friend_node_1",
+      "features": {
+        "post_rate_norm": 0.15000000000000002,
+        "profile_age_norm": 0.15000000000000002,
+        "report_rate": 0.0468,
+        "external_link_rate": 0.0468,
+        "profile_realness": 0.994,
+        "shared_audience_overlap": 0.83,
+        "interaction_strength": 0.82,
+        "trust_score": 0.976
+      }
+    },
+    {
+      "id": "friend_node_2",
+      "features": {
+        "post_rate_norm": 0.2,
+        "profile_age_norm": 0.2,
+        "report_rate": 0.0468,
+        "external_link_rate": 0.0468,
+        "profile_realness": 0.988,
+        "shared_audience_overlap": 0.825,
+        "interaction_strength": 0.825,
+        "trust_score": 0.982
+      }
+    },
+    {
+      "id": "friend_node_3",
+      "features": {
+        "post_rate_norm": 0.25,
+        "profile_age_norm": 0.25,
+        "report_rate": 0.0468,
+        "external_link_rate": 0.0468,
+        "profile_realness": 0.982,
+        "shared_audience_overlap": 0.83,
+        "interaction_strength": 0.82,
+        "trust_score": 0.988
+      }
+    },
+    {
+      "id": "friend_node_4",
+      "features": {
+        "post_rate_norm": 0.30000000000000004,
+        "profile_age_norm": 0.30000000000000004,
+        "report_rate": 0.0468,
+        "external_link_rate": 0.0468,
+        "profile_realness": 0.976,
+        "shared_audience_overlap": 0.825,
+        "interaction_strength": 0.825,
+        "trust_score": 0.994
+      }
+    },
+    {
+      "id": "friend_node_5",
+      "features": {
+        "post_rate_norm": 0.35,
+        "profile_age_norm": 0.35,
+        "report_rate": 0.0468,
+        "external_link_rate": 0.0468,
+        "profile_realness": 0.97,
+        "shared_audience_overlap": 0.83,
+        "interaction_strength": 0.82,
+        "trust_score": 1.0
+      }
+    }
+  ],
+  "new_edges": [
+    [
+      "user_target",
+      "friend_node_0"
+    ],
+    [
+      "user_target",
+      "friend_node_1"
+    ],
+    [
+      "user_target",
+      "friend_node_2"
+    ],
+    [
+      "user_target",
+      "friend_node_3"
+    ],
+    [
+      "user_target",
+      "friend_node_4"
+    ],
+    [
+      "user_target",
+      "friend_node_5"
+    ]
+  ]
+}
